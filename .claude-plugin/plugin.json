@@ -1,0 +1,9 @@
+{
+  "name": "code-companion",
+  "version": "0.1.0",
+  "description": "A pixel companion in a pane: it levels up on your tool calls, takes damage on errors, and keeps a quest log of the session.",
+  "author": {
+    "name": "Jiten"
+  },
+  "types": "./types/index.d.ts"
+}

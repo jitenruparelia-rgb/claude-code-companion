@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-companion",
+  "owner": {
+    "name": "Jiten"
+  },
+  "description": "A pixel companion for Claude Code: a pane that levels up on your tool calls, takes damage on errors, and keeps a quest log.",
+  "plugins": [
+    {
+      "name": "code-companion",
+      "source": "./"
+    }
+  ]
+}
